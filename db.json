@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Clean code ",
+      "author": "Robert c.Martin",
+      "category": "Programming "
+    },
+    {
+      "id": 2,
+      "title": "Python Data Science",
+      "author": "Jake VenterPlas",
+      "category": "Data Sciencce"
+    },
+    {
+      "title": " Macbeth",
+      "author": "William Shakespeare",
+      "category": " plays",
+      "id": 3
+    },
+    {
+      "title": "Powerful women",
+      "author": "Janani",
+      "category": "Fiction",
+      "id": 4
+    }
+  ]
+}
